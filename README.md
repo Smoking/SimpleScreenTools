@@ -1,2 +1,3 @@
 # SimpleScreenTools
-这是一款基于qt的Windows截图软件，借鉴了qtcn里面的liudianwu的项目
+这是一款基于QT的视窗截图软件，借鉴了qtcn里面的liudianwu的项目
+实现了基础的全面截屏功能，部分截屏功能。
