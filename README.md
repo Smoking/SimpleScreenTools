@@ -1,0 +1,4 @@
+# SimpleScreenTools
+这是一款基于QT的视窗截图软件，借鉴了qtcn里面的liudianwu的项目
+实现了截图的基本功能，他对内存性能的占用率非常的低。
+exe里面为编译好的可执行文件。
