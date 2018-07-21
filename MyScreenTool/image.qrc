@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons8_Slack.ico</file>
+    </qresource>
+</RCC>
